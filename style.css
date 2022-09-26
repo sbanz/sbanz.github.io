@@ -65,6 +65,11 @@
     line-height: 25px;
 }
 
+.content h2{
+    font-size: 20px;
+    color: #132257;
+}
+
 .content a{
     background: #132257;
     padding: 10px 20px;
